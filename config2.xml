@@ -1,0 +1,9 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<DEFAULT ct="00000000000000000000000000000000" probability="100" flag="1">
+		<file type=3 local="files/comm.zip" name="comm.zip" hash_type=1 probability="100" scale="1">
+			<A hash="36770666"/>
+			<B hash="71DC13B2"/>
+		</file>
+	</DEFAULT>
+</config>
